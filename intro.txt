@@ -1,0 +1,9 @@
+Select an option:
+
+    1. Book an appointment
+    2. Mark appointment completion
+    3. View schedule
+    4. View history
+    5. Exit
+    
+Enter the number correspending to the action you desire: 
